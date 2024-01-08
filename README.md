@@ -33,7 +33,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![image](https://github.com/carlosamorales/Module2-Challenge/assets/7796766/c2a73a4f-3575-4713-a78c-db8f59cce45b)
+
 
 ## Credits
 Chatgpt
