@@ -37,8 +37,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 
 ## Credits
-Chatgpt
-AskBCS Learning Assistants
+**Chatgpt**
+**AskBCS Learning Assistants**
 
 ## License
 
